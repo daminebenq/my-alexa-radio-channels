@@ -1,5 +1,5 @@
 // Set your STDLIB_LIBRARY_TOKEN inside env.json
-const db = require('lib')({ token: process.env.STDLIB_LIBRARY_TOKEN }).utils.kv;
+const db = require('lib')({ token: 'tok_dev_77y7nv93neNE1VXdgBJtWCU3KtVJi4U7wbUWNBSJPFGTHce8W9r7m9bpAQPTKhDh' }).utils.kv;
 
 // TO GET MORE STREAMS, GO TO http://directory.shoutcast.com. All URLs should start with https
 const sample_cstations = [
